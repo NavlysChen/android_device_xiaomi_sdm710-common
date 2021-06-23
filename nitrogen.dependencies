@@ -6,13 +6,13 @@
     "remote":"github"
   },
   {
-    "repository": "guoxiao1213/android_kernel_xiaomi_sdm710",
+    "repository": "NavlysChen/android_kernel_xiaomi_sdm710",
     "target_path": "kernel/xiaomi/sdm710",
     "branch": "lineage-18.1",
     "remote": "github"
   },
   {
-    "repository": "guoxiao1213/proprietary_vendor_xiaomi",
+    "repository": "NavlysChen/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "lineage-18.1",
     "remote": "github"
