@@ -8,7 +8,7 @@
   {
     "repository": "NavlysChen/android_kernel_xiaomi_sdm710",
     "target_path": "kernel/xiaomi/sdm710",
-    "branch": "lineage-18.1",
+    "branch": "xpe-15.0",
     "remote": "github"
   },
   {
